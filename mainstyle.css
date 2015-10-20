@@ -4,11 +4,11 @@ body{
     
    
 }
-.whoareyou{margin-left:350px;
-    margin-right:350px;
-    border:2px solid grey;
+.whoareyou{margin:auto 200;
+    border:3px solid grey;
     padding:10px;}
 #omgfunny{width:200px}
 #sirius{width:250px}
 #short{width:275px}
 #emoji{width:250px;}
+#bacon{width:200;
