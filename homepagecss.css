@@ -1,3 +1,15 @@
-#welcome{margin:auto;
+#welcome{
+text-align:center;
+font-size:50px;
 
+}
+p{text-indent: 30px;
+font-size: 30px;
+text-align:justify;
+    
+}
+#pusheen
+
+body{background-color:rgb(153, 204, 255);
+    
 }
