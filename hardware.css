@@ -1,20 +1,59 @@
 body{font-family: 'Josefin Sans', sans-serif;
 }
-h1{font-size:100;
-        }
+
 h2{margin:auto 125px;
         }
-#motherboard{border:solid black 5px; margin:auto 50px;padding:20px; padding-top:5px
+
+
+#motherboard{border:solid #264073 5px; margin:auto 50px;padding:20px; padding-top:5px;
+background-color:#24478f;
         }
-#cpu{border:solid black 5px;margin:auto 50px;padding:20px;padding-top:5px;
+#cpu{border:solid #264073 5px;margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
-#ram{border:solid black 5px;margin:auto 50px;padding:20px;padding-top:5px;
+#ram{border:solid #264073 5px;margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
-#harddrive{border:solid black 5px;;margin:auto 50px;padding:20px;padding-top:5px;
+#harddrive{border:solid #264073 5px;;margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
-#keyboard{border:solid black 5px;margin:auto 50px;padding:20px;padding-top:5px;
+#keyboard{border:solid #264073 5px;margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
-#mouse{border:solid black 5px;margin:auto 50px;padding:20px;padding-top:5px;
+#mouse{border:solid #264073 5px;margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
-#monitor{border:solid black 5px; margin:auto 50px;padding:20px;padding-top:5px;
+#monitor{border:solid #264073 5px; margin:auto 50px;padding:20px;padding-top:5px;
+background-color:#24478f;
         }
+
+
+#navbar{
+    text-align:center;
+     font-family: 'Josefin Sans', sans-serif;
+    margin-top: 50px;
+    font-size:30px;
+    color:black;
+}
+#navbar li{
+    display:inline-block;
+    border:5px solid #234790;
+    background-color:#234790;
+}
+a:visited{color:black;
+}
+
+
+body{background: url(http://p1.pichost.me/i/23/1458213.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#welcome-section {
+    width:800px;
+    background:#234790;
+    padding:3px;
+    border: solid #264073 5px;
+}
