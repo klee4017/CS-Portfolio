@@ -1,0 +1,33 @@
+body{
+font-family:'Josefin Sans', sans-serif;
+}
+navbar{
+    text-align:center;
+     font-family: 'Josefin Sans', sans-serif;
+    margin-top: 50px;
+    font-size:50px;
+    color:black;
+}
+#navbar li{
+    display:inline-block;
+    border:2px solid black;
+}
+a:visited{
+    color:black ;
+}
+
+body{margin:auto 200px;
+    border: lightblue ;
+    background-color: lightblue;
+}
+
+pre{
+    background-color:white;
+}
+
+
+h3{text-align: justify;
+    
+}
+
+#text1{text-align: center}
