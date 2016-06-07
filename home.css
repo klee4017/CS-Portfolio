@@ -3,7 +3,7 @@ text-align:center;
     
 }
 body{
-background-color:#00e68a;
+background-color:  #aa80ff;
 font-family:'Josefin Sans', sans-serif;
 }
 
@@ -18,7 +18,7 @@ font-family:'Josefin Sans', sans-serif;
 #navbar li{
     display:inline-block;
     border:2px solid black;
-    background-color:#00e68a;
+    background-color:#aa80ff;
 }
 a:visited{
     color:black ;
